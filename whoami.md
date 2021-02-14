@@ -4,7 +4,7 @@ Currently I'm a computer engineering student at university.
 
  
  
- I'm love malware analysis, reverse engineering, OSINT and social engineering.
+ I love malware analysis, reverse engineering, OSINT and social engineering.
  
  
 
